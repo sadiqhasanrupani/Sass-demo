@@ -2,7 +2,10 @@
 
 ---
 
-- In this tutorial, we'll discover how to set up Sass from scratch.
+## In this tutorial, we'll discover how to set up Sass from scratch.
+
+---
+
 - Installing Node on your computer is the first step [node-link](https://nodejs.org/en/download/).
 - The following action is creating a folder on your computer. In this instance, I made a folder called "SAAS-DEMO."
 - Render to your folder in the terminal, then run `npm init -y` to launch Node.js.
